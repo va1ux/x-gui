@@ -379,7 +379,7 @@ dragElement(guiTopBar,gui);//Allowdraggingfromtheentiretopbar
 
 constversion=document.createElement("span");
 version.className=classes.version;
-version.innerText="SHxxullys-X-GUI"+versionName;
+version.innerText="Special-GUI"+versionName;
 guiTopBar.append(version);
 
 conststyle=document.createElement("style");
